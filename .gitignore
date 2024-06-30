@@ -1,3 +1,5 @@
+app/release
+app/debug
 *.iml
 .gradle
 /local.properties
